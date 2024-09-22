@@ -10,3 +10,6 @@ and i will strive and continue making efforts until I reach my goal. If the read
 stuck, then trust me, keep going, if you can run, walk, if you cant walk , crawl but dont get stagnant!!!
 
 Forever yours.
+
+Now I am making a few changes in the file, this is essential to understand the functionality of git clone and the concept of 
+git push!!!!
