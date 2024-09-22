@@ -4,3 +4,5 @@ and i will strive and continue making efforts until I reach my goal. If the read
 stuck, then trust me, keep going, if you can run, walk, if you cant walk , crawl but dont get stagnant!!!
 
 Forever yours.
+
+Testing the difference between clone and pull, clone is used for cloning the total project where as pull is used to update to the latest changes made in the project.
